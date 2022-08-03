@@ -12,6 +12,7 @@ ________________________________________________________________________________
 """
 from random import randint as r
 
+
 computer = r(1, 100)
 your_count = 0
 while True:
