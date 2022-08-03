@@ -32,3 +32,5 @@ while True:
         print('Загаданное число меньше вашего числа ')
     elif your_input < computer:
         print('Загаданное число больше вашего числа')
+
+        
